@@ -1,0 +1,4 @@
+Flask
+Redis
+
+https://dzone.com/articles/templating-jenkins-build-environments-with-docker
